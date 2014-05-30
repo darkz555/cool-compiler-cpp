@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="semant" />
+	<File name="TestVisitor.cc" open="1" top="0" tabpos="2">
+		<Cursor position="112" topLine="0" />
+	</File>
+	<File name="TestVisitor.h" open="1" top="1" tabpos="3">
+		<Cursor position="214" topLine="0" />
+	</File>
+	<File name="TreeVisitor.h" open="1" top="0" tabpos="4">
+		<Cursor position="344" topLine="0" />
+	</File>
+	<File name="ast-lex.cc" open="0" top="0" tabpos="7">
+		<Cursor position="36408" topLine="1370" />
+	</File>
+	<File name="cool-tree.h" open="0" top="0" tabpos="5">
+		<Cursor position="2846" topLine="127" />
+	</File>
+	<File name="cool-tree.handcode.h" open="0" top="0" tabpos="6">
+		<Cursor position="1576" topLine="39" />
+	</File>
+	<File name="semant-phase.cc" open="0" top="0" tabpos="7">
+		<Cursor position="498" topLine="0" />
+	</File>
+	<File name="semant.cc" open="1" top="0" tabpos="1">
+		<Cursor position="8135" topLine="226" />
+	</File>
+	<File name="semant.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="12" />
+	</File>
+</CodeBlocks_layout_file>
