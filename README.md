@@ -1,3 +1,3 @@
 Cool Compiler
 =============
-The Cool Compiler is (being) written in C++ for Stanford University's Coursera course, "Compilers." For more information, see [the course website](https://www.coursera.org/course/compilers).
+The Cool Compiler was a project for Stanford University's Coursera course [Compilers](https://www.coursera.org/course/compilers). I completed the lexer and parser. For more information, see [my website](http://gregorygundersen.com/x.html#compilers).
